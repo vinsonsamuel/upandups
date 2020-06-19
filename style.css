@@ -153,6 +153,22 @@
       line-height: 1.2em;
       margin: 40px 200px 40px 200px;
   }
+.phone-contact{
+      color: white;
+      text-decoration: none;
+  }
+  #phone-contact a:hover{
+      color: violet;
+      text-decoration: none;
+  }
+  #email-contact a:hover{
+    color: violet;
+    text-decoration: none;
+  }
+  .email-contact{
+    color: white;
+    text-decoration: none;
+  }
 
   
 
